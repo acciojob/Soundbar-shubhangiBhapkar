@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body{
+	background-color:blueviolet;
+}
+.container{
+	display :flex;
+	justify-content:space-around;
+	align-item:center;
+	
+}
+
+.btn{
+	color:white;
+	border:none;
+	background-color:purple;
+	margin:10px;
+	padding:10px;
+	font-size:18px;
+	
+	
+}
